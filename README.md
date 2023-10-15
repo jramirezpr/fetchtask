@@ -1,6 +1,6 @@
 predictor of receipts
 model trained with time_series.ipynb
-(if you want to replicatethe training, easiest is to run in google colab on cpu)
+(if you want to replicate the training, easiest is to run notebook in google colab on cpu.best model was a linear model that predicts 6 days ahead at a time )
 the trained model is saved as multimodelfile2
 docker image of http api is saved on docker hub as
 
